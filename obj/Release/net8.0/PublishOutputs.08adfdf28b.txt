@@ -1,0 +1,7 @@
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/AzAppService-test
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/appsettings.Development.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/appsettings.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/AzAppService-test.dll
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/AzAppService-test.deps.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/AzAppService-test.runtimeconfig.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/publish/AzAppService-test.pdb

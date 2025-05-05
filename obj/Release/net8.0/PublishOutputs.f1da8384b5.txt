@@ -1,0 +1,12 @@
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/AzAppService-test
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/publish/web.config
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/appsettings.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/publish/AzAppService-test.deps.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/publish/AzAppService-test.runtimeconfig.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/AzAppService-test.dll
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/AzAppService-test.deps.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/AzAppService-test.runtimeconfig.json
+/Users/leo/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/az104/AzAppService-test/bin/Release/net8.0/publish/AzAppService-test.pdb
